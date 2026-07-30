@@ -2,3 +2,4 @@
 //It confirms that the JavaScript file is connected correctly.
 
 console.log("The JavaScript file loaded successfully.")
+console.log("I am commiting to a second branch")
