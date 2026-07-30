@@ -1,0 +1,24 @@
+/*Style the entire page */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: green;
+    color: #1f2937;
+}
+
+/* Styles the card in the middle of the page */
+.page-card {
+    width: 90%;
+    max-width: 650px;
+    margin: 60px auto;
+    padding: 30px;
+    background-color: white;
+    border-radius: 12px;
+    text-align: center;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+/* Styles the main heading */
+h1 {
+    color: #b22025;
+}
